@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MYslfMAAN
 - 👀 I’m interested in problem solving questions
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JAVA Full Stack
+- 💞️ I’m looking to Job ......
 - 📫 How to reach me ...
 
 <!---
